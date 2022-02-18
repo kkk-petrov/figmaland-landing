@@ -465,3 +465,99 @@ img.item__useravatar{
     text-align:left;
     line-height: 24px;
 }
+
+
+/* ======================FOOTER============================= */
+
+
+
+.footer {
+    display: flex;
+
+}
+.footer__container {
+    padding: 107px 33px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__links{
+    display: flex;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    margin-right: 75px;
+}
+
+.links:last-child {
+    margin-right: 0;
+}
+
+p.links__title {
+    margin: 0;
+    margin-bottom: 40px;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+
+
+.link {
+    text-decoration: none;
+    margin-bottom: 19px;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+
+}
+.link:last-child {
+    margin-bottom: 0;
+}
+
+a.link:hover {
+    color: #969696;
+}
+
+
+.footer__info {
+    font-weight: 700;
+    font-size: 16px;
+    
+
+}
+.footer__location {
+    
+}
+
+.footer__phone,
+.footer__location {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.footer__phone img,
+.footer__location img{
+    margin-right: 17px;
+
+}
+
+.footer__phone {
+
+}
+
+.footer__icons {
+}
+
+.footer__icons a{
+    text-decoration: none;
+    margin-right: 24px;
+}
+
+.icon__link {
+
+}
+
