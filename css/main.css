@@ -364,7 +364,45 @@ body{
 
 /* =======================GALLERY======================== */
 
+.gallery {
 
+}
+.gallery__container {
+    text-align: center;
+    padding: 100px 0px;
+}
+.gallery__block-text {
+}
+.gallery__title {
+}
+.title {
+}
+.gallery__text {
+}
+.text {
+}
+.gallery__content {
+}
+.gallery__row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 44px;
+}
+.gallery__row-2 {
+}
+.gallery__photo{
+    margin-right: 33px;
+    border-radius: 12px;
+
+}
+
+
+.gallery__button {
+    margin: 0 auto;
+}
+.btn {
+}
 
 
 /* =======================PARTNERS========================*/
@@ -561,3 +599,4 @@ a.link:hover {
 
 }
 
+/* ================================================================= */
